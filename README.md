@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Anvitha 👋
 
-<!--
-**Ch-Anvitha/Ch-Anvitha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE Student @ Malla Reddy College of Engineering, Hyderabad
+🔧 Learning Java · SQL · Cybersecurity
+🚀 Building toward Backend & Security Engineering
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Currently Working With
+- **Java** — OOP, Collections, Exception Handling
+- **SQL** — Schema design, JOINs, Indexing
+- **Tools:** Git · GitHub · VS CODE
+- **DSA** — HackerRank & LeetCode daily
+
+## 📌 What I'm Building Right Now
+- [ ] Java Project: Bank Management System
+- [ ] SQL Project: E-commerce DB Schema
+- [ ] TryHackMe Pre-Security Path (coming soon)
+
+
+## 🗂️ Projects
+| Project | What it does | Tech |
+|---|---|---|
+| [WasteWins](https://github.com/Ch-Anvitha/WasteWins) | Waste-to-energy platform built at Smart India Hackathon 2025 | React Native, Node.js, MongoDB |
+| [PRAWL](https://github.com/Ch-Anvitha/Cyber) | Free cybersecurity audit tool for small businesses — 8 scans in 30 seconds | Python |
+| [AthLine](https://github.com/Ch-Anvitha/AthLine) | Athlete lifecycle management platform — injury, finance & career support | React Native, PostgreSQL |
+| [Fundamind](https://github.com/Ch-Anvitha/Fundamind) | Gamified financial literacy platform for India | React, Supabase |
+
+
+## 🔗 Connect
+[LinkedIN](https://www.linkedin.com/in/anvithachirumamilla/).
+
+
+---
+*"Consistency over intensity."*
+
+<
