@@ -14,7 +14,6 @@
 
 ## 📌 What I'm Building Right Now
 - [ ] Java Project: Bank Management System
-- [ ] SQL Project: E-commerce DB Schema
 - [ ] TryHackMe Pre-Security Path (coming soon)
 
 
