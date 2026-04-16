@@ -24,6 +24,7 @@
 | [PRAWL](https://github.com/Ch-Anvitha/Cyber) | Free cybersecurity audit tool for small businesses — 8 scans in 30 seconds | Python |
 | [AthLine](https://github.com/Ch-Anvitha/AthLine) | Athlete lifecycle management platform — injury, finance & career support | React Native, PostgreSQL |
 | [Fundamind](https://github.com/Ch-Anvitha/Fundamind) | Gamified financial literacy platform for India | React, Supabase |
+| [Ecommerce Database Schema](https://github.com/Ch-Anvitha/ECOMMERCE-DB-SCHEMA-) | A MySQL database simulating an Amazon-like e-commerce platform. | MYSQL |
 
 
 ## 🔗 Connect
