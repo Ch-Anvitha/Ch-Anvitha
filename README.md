@@ -1,6 +1,8 @@
+<>
 **Anvitha Chirumamilla**
-B.Tech Computer Science & Engineering — Malla Reddy College of Engineering, Hyderabad (JNTUH, 2028)
-LinkedIn: linkedin.com/in/anvithachirumamilla | GitHub: github.com/Ch-Anvitha
+B.Tech Computer Science & Engineering — Malla Reddy College of Engineering(JNTUH, 2028)
+LinkedIn: linkedin.com/in/anvithachirumamilla 
+GitHub: github.com/Ch-Anvitha
 
 ---
 
@@ -69,4 +71,4 @@ JAM SESSIONS - TOP PERFORMER
 ---
 *"Consistency over intensity."*
 
-<
+</>
